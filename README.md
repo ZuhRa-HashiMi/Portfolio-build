@@ -1,49 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Personal Portfolio Page
+# Samiullah Bahadur Portfolio
 
-> This is the mobile version of a personal portfolio page that shows off my accomplishments as a software developer.
+> Portfolio project about Samiullah Bahadur
 
-![screenshot](./assets/screenshot.png)
+> ![screenshot](./image/screenshot.PNG)
+
+> In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and figma template)
+
+You can download my project copy this link(git@github.com:samiullahbahadur/Portfolio.git) and git clone paste the link in the terminal
 
 ## Built With
 
-- HTML and CSS
-- Bootstrap
+- HTML
+- CSS
+- Javascript
 
-## Getting Started
+## Live Demo
 
-To get a local copy up and running follow these simple example steps.
+- [Bahadur-Portfolio](https://samiullahbahadur.github.io/Portfolio/).
 
-### Prerequisites
-- A simple web browser (preferably Chrome or Firefox)
-- An IDE
+👤 **Samiullah Bahadur**
 
-### Setup
-- Download this repository and open index.html file.
-
-## Authors
-
-👤 **Author**
-
-- GitHub: [@ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
-- Twitter: [@ZuhraHashimi4](https://twitter.com/ZuhraHashimi4)
-- LinkedIn: [zuhra-hashimi](https://www.linkedin.com/in/zuhra-hashimi-601966214/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
+- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
+- LinkedIn: [@samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Microverse Inc.
-
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
