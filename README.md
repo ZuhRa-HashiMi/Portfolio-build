@@ -1,14 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Samiullah Bahadur Portfolio
+# Zuhra Hashimi Portfolio
 
-> Portfolio project about Samiullah Bahadur
+> Portfolio project about Zuhra Hashimi
 
-> ![screenshot](./image/screenshot.PNG)
 
 > In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and figma template)
 
-You can download my project copy this link(git@github.com:samiullahbahadur/Portfolio.git) and git clone paste the link in the terminal
+You can download my project copy this link(https://github.com/ZuhRa-HashiMi/Portfolio-build/tree/feature-branch) and git clone paste the link in the terminal
 
 ## Built With
 
@@ -18,13 +17,13 @@ You can download my project copy this link(git@github.com:samiullahbahadur/Portf
 
 ## Live Demo
 
-- [Bahadur-Portfolio](https://samiullahbahadur.github.io/Portfolio/).
+- [Hashimi-Portfolio](https://github.com/ZuhRa-HashiMi/Portfolio-build/tree/feature-branch).
 
-👤 **Samiullah Bahadur**
+👤 **Zuhra Hashimi**
 
-- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
-- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
-- LinkedIn: [@samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
+- GitHub: [@ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
+- Twitter: [@ZuhraHashimi4](https://twitter.com/ZuhraHashimi4)
+- LinkedIn: [@zuhra-hashimi](https://www.linkedin.com/in/zuhra-hashimi-601966214/)
 
 ## Show your support
 
